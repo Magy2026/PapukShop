@@ -23,7 +23,7 @@ MySQL
 # Screenshots
 ![Home Page](screenshots/home.png)
 ![About Page](screenshots/about.png)
-![Product Page](screenshots/product.png)
+![Product Page](screenshots/products.png)
 ![One Product Page](screenshots/aProduct.png)
 ![Cart Page](screenshots/cart.png)
 ![Kap Page](screenshots/kap.png)
